@@ -48,8 +48,8 @@ PR 제목에는 **이름 + 프로그래머스 + 오늘 푼 문제 수**를 작�
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/sanchaehwa">
-        <img src="https://avatars.githubusercontent.com/sanchaehwa" width="140px;" alt="sanchaehwa"/>
+      <a href="https://github.com/young0311">
+        <img src="https://avatars.githubusercontent.com/young0311" width="140px;" alt="young0311"/>
       </a>
     </td>
     <td align="center">
